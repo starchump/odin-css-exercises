@@ -2,7 +2,9 @@
     background-color: #f794bf;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-
+.odd.three {
+    font-size: 24px;
+}
 #two {
     color: #1947ff;
     font-size: 36px;
